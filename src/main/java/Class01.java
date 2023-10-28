@@ -6,6 +6,8 @@ public class Class01 {
 
         System.out.println("v3 kodları");
 
+        System.out.println( "vcla4");
+
 
 
     }
